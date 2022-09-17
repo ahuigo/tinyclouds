@@ -1,8 +1,8 @@
 import blog, { ga, redirects } from "https://deno.land/x/blog@0.5.0/blog.tsx";
 
 blog({
-  title: "Ryan Dahl",
-  author: "Ryan Dahl",
+  title: "Ry1an Dahl",
+  author: "Ryan Da5hl",
   avatar: "./ry.jpg",
   avatarClass: "full",
   links: [
